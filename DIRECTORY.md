@@ -30,6 +30,7 @@
   * [Binary Count Trailing Zeros](https://github.com/TheAlgorithms/Python/blob/master/bit_manipulation/binary_count_trailing_zeros.py)
   * [Binary Or Operator](https://github.com/TheAlgorithms/Python/blob/master/bit_manipulation/binary_or_operator.py)
   * [Binary Xor Operator](https://github.com/TheAlgorithms/Python/blob/master/bit_manipulation/binary_xor_operator.py)
+  * [Reverse Bits](https://github.com/TheAlgorithms/Python/blob/master/bit_manipulation/reverse_bits.py)
   * [Single Bit Manipulation Operations](https://github.com/TheAlgorithms/Python/blob/master/bit_manipulation/single_bit_manipulation_operations.py)
 
 ## Blockchain
@@ -122,6 +123,7 @@
     * [Fenwick Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/fenwick_tree.py)
     * [Lazy Segment Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/lazy_segment_tree.py)
     * [Lowest Common Ancestor](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/lowest_common_ancestor.py)
+    * [Merge Two Binary Trees](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/merge_two_binary_trees.py)
     * [Non Recursive Segment Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/non_recursive_segment_tree.py)
     * [Number Of Possible Binary Trees](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/number_of_possible_binary_trees.py)
     * [Red Black Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/red_black_tree.py)
